@@ -3,7 +3,7 @@
 bool reset_path
 bool success
 ```
-# Services: dsor_paths/<Service>
+# Services: dsor_paths/{Service}
 # SetConstSpeed
 ```
 float64 speed
