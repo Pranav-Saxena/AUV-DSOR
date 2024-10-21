@@ -17,3 +17,9 @@ roslaunch simulation_bringup start_vehicle.launch name:=bluerov_heavy
 Depth, X, Y,Z, Vx, Vy,Vz, u, Roll, Pitch,Yaw, Yaw_rate, Pitch_rate,Roll_rate, battery_level, altitude, status
 ```
 
+# Farol msgs documentation
+# farol_msgs
+```
+X,Y
+```
+
