@@ -42,7 +42,7 @@ std_msgs/Header: header
 float64: x0, y0, yaw0, u, r, duration
 ```
 
-#farol_msgs/MultiTrackingSection
+# farol_msgs/MultiTrackingSection
 ```
 farol_msgs/TrackingSection sections  
 ```
