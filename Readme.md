@@ -1,3 +1,3 @@
 [farol_msgs](farol_msgs.md)
-\n
+<br>
 [dosr_paths](dsor_paths.md)
