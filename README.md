@@ -18,8 +18,8 @@ Depth, X, Y,Z, Vx, Vy,Vz, u, Roll, Pitch,Yaw, Yaw_rate, Pitch_rate,Roll_rate, ba
 ```
 
 # Farol msgs documentation
-# farol_msgs
+# farol_msgs/mstate
 ```
-X,Y
+float64: Depth, X, Y,Z, Vx, Vy,Vz, u, Yaw, Pitch, Roll, Yaw_rate, Pitch_rate, Roll_rate, In_Press, In_Press_dot, uint8, battery_level, float64 altitude, uint8 status 
 ```
 
